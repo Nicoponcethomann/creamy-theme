@@ -1,0 +1,71 @@
+p{
+	font-family: "Open Sans";
+}
+
+.navbar-brand, h1, h3, h4, .creamy{
+	font-family: "Merriweather";
+}
+
+.navbar {
+    margin-bottom: 0;
+    border: none;
+}
+
+.navbar-default{
+	background-image: none;
+	background-color: #CE162B;
+}
+
+.navbar-header .navbar-brand {
+	color: #F2EFAD;
+}
+
+.navbar-default .navbar-nav > li > a {
+   color: #F2EFAD; 
+    }
+
+.creamy-background{
+	background: url(../img/creamy.jpg);
+	background-size: cover;
+	background-position: center right;
+}
+
+.creamy-background-darker{
+	background-color: rgba(0, 0, 0, 0.5);
+}
+
+.creamy-intro{
+	padding: 10% 0%;
+}
+
+.creamy-h1, .creamy-p{
+	color: #F2EFAD;
+}
+
+.so-creamy-background, .desktop-tag-love-background{
+	background-color: #F2EFAD;
+	padding: 5% 0%;
+}
+
+.so-creamy-h3, .so-creamy-p, .desktop, .tags, .love h3, p{
+	color: #CE162B;
+}
+
+.about-creamy-background{
+	background-color: #CE162B;
+	padding: 5% 0%;
+}
+
+.about-h3, .about-p, .foot p{
+	color: #F2EFAD;
+}
+
+.glyphicon-display, .glyphicon-tag, .glyphicon-heart{
+	font-size: 500%;
+	color: #CE162B;
+}
+
+footer{
+	background-color: #CE162B;
+	padding: 2% 0%;
+}
